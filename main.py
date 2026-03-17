@@ -21,7 +21,7 @@ app.add_middleware(
         "http://127.0.0.1:5173",
         "https://vallabhmonash.github.io",
         "https://vallabhmonash.github.io/FIT5120_Onboarding_Frontend/",
-        "https://www.sunsafecamp.live/"
+        "https://www.sunsafecamp.live"
     ],
     allow_credentials=True,
     allow_methods=["*"],
